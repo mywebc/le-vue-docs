@@ -1467,10 +1467,10 @@ magic-string@^0.25.2, magic-string@^0.25.7:
   dependencies:
     sourcemap-codec "^1.4.4"
 
-marked@^1.1.1:
-  version "1.2.0"
-  resolved "https://registry.npm.taobao.org/marked/download/marked-1.2.0.tgz#7221ce2395fa6cf6d722e6f2871a32d3513c85ca"
-  integrity sha1-ciHOI5X6bPbXIubyhxoy01E8hco=
+marked@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-2.0.0.tgz#9662bbcb77ebbded0662a7be66ff929a8611cee5"
+  integrity sha512-NqRSh2+LlN2NInpqTQnS614Y/3NkVMFFU6sJlRFEpxJ/LHuK/qJECH7/fXZjk4VZstPW/Pevjil/VtSONsLc7Q==
 
 media-typer@0.3.0:
   version "0.3.0"
@@ -1566,6 +1566,7 @@ node-forge@0.9.0:
   integrity sha1-1iQFDtu0SHStyhK7mlLsY8t4JXk=
 
 node-sass@4, "node-sass@npm:sass@^1.26.11", sass@^1.26.11:
+  name node-sass
   version "1.29.0"
   resolved "https://registry.npm.taobao.org/sass/download/sass-1.29.0.tgz?cache=0&sync_timestamp=1604536734074&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsass%2Fdownload%2Fsass-1.29.0.tgz#ec4e1842c146d8ea9258c28c141b8c2b7c6ab7f1"
   integrity sha1-7E4YQsFG2OqSWMKMFBuMK3xqt/E=
